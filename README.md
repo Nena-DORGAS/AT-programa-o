@@ -8,11 +8,12 @@
 </p>
 
 ## Grupo
-- Luiza Ribeiro    rm:14832
-- - Nicolle Américo  rm:14450
+- Douglas Benitah    rm:14828
+- João Pedro Maschion  rm:14844
+- Lucas Dias Catroppa rm:14855
 
 ## Descrição do Projeto
-Esse site é baseado em um projeto desenvolvido em sala. A ideia é mostrar a história e curiosidades de alguns animes.
+Esse site é baseado em um projeto feiro em sala no final do 1 semestre. Este site mostrará alguns tipos de bolos.
 
 ## Parte do site
-(![image](https://user-images.githubusercontent.com/84139438/203352281-2f34ae9e-dae7-4305-a37d-73992eaecedc.png)
+![image](https://user-images.githubusercontent.com/84139438/203352281-2f34ae9e-dae7-4305-a37d-73992eaecedc.png)
