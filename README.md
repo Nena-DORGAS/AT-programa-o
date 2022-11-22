@@ -7,7 +7,9 @@
 <p>    <a href="https://jigsaw.w3.org/css-validator/check/referer">        <img style="border:0;width:88px;height:31px"            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"            alt="CSS válido!" />    </a>
 </p>
 
-## Grupo- Luiza Ribeiro    rm:14832- Nicolle Américo  rm:14450
+## Grupo
+- Luiza Ribeiro    rm:14832
+- - Nicolle Américo  rm:14450
 
 ## Descrição do Projeto
 Esse site é baseado em um projeto desenvolvido em sala. A ideia é mostrar a história e curiosidades de alguns animes.
