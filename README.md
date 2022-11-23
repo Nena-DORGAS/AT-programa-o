@@ -16,4 +16,4 @@
 Esse site é baseado em um projeto feiro em sala no final do 1 semestre. Este site mostrará alguns tipos de bolos.
 
 ## Parte do site
-![image](https://user-images.githubusercontent.com/84139438/203352281-2f34ae9e-dae7-4305-a37d-73992eaecedc.png)
+![image](![image](https://user-images.githubusercontent.com/84139438/203563907-5472055e-4df1-48af-8637-3a36257066cd.png))
