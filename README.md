@@ -6,13 +6,13 @@
 
 <p>   <a href="https://jigsaw.w3.org/css-validator/check/referer">        <img style="border:0;width:88px;height:31px"            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"            alt="CSS válido!" />    </a> </p>
 
-## Grupo
+## Grupo:
 - Douglas Benitah    rm:14828
 - João Pedro Maschion  rm:14844
 - Lucas Dias Catroppa rm:14855
 
-## Descrição do Projeto
+## Descrição do Projeto:
 Esse site é baseado em um projeto feiro em sala no final do 1 semestre. Este site mostrará alguns tipos de bolos.
 
-## Parte do site
+## Parte do site:
 ![image](https://user-images.githubusercontent.com/84139438/203563907-5472055e-4df1-48af-8637-3a36257066cd.png)
