@@ -12,7 +12,7 @@
 - Lucas Dias Catroppa rm:14855
 
 ## Descrição do Projeto:
-Esse site é baseado em um projeto feiro em sala no final do 1 semestre. Este site mostrará alguns tipos de bolos.
+Esse site é baseado em um projeto feito em sala no final do 1 semestre. Ele contará um pouco sobre nossa loja de bolos.
 
 ## Parte do site:
 ![image](https://user-images.githubusercontent.com/84139438/203563907-5472055e-4df1-48af-8637-3a36257066cd.png)
