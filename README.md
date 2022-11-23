@@ -16,3 +16,5 @@ Esse site é baseado em um projeto feiro em sala no final do 1 semestre. Este si
 
 ## Parte do site:
 ![image](https://user-images.githubusercontent.com/84139438/203563907-5472055e-4df1-48af-8637-3a36257066cd.png)
+![image](https://user-images.githubusercontent.com/84139438/203565460-c7c713b2-cb1a-4136-af2b-dc36d592b605.png)
+
