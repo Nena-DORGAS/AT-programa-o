@@ -13,6 +13,8 @@
 
 ## Descrição do Projeto:
 Esse site é baseado em um projeto feito em sala no final do 1 semestre. Ele contará um pouco sobre nossa loja de bolos.
+O nome da nossa loja de bolos é DJL pois é a primeira sigla de nossos nomes (Douglas, João, Lucas), escolhemos esse nome pois é
+uma forma de mostrarmos que todos participaram neste projeto de abertura de loja.
 
 ## Parte do site:
 ![image](https://user-images.githubusercontent.com/84139438/203563907-5472055e-4df1-48af-8637-3a36257066cd.png)
