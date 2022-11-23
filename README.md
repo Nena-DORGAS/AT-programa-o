@@ -1,6 +1,6 @@
 # AT 3TRI - 2EMIB
 
-![image](https://user-images.githubusercontent.com/84139409/196744219-2ad057c8-2bd1-41ce-945e-bb9787d077ee.png)
+(https://user-images.githubusercontent.com/84139409/196744219-2ad057c8-2bd1-41ce-945e-bb9787d077ee.png)
 
 ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2F2emib-ac1.github.io%2F2emib-ac1%2F)
 
